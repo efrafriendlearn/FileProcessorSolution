@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\services\\prosaposteoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\services\\prosaposteoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\data\\prosa\\detailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\data\\prosa\\detailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\fileparsers\\prosatextfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\fileparsers\\prosatextfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\fileparsers\\textfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\fileparsers\\textfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\data\\prosa\\trailerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\data\\prosa\\trailerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\data\\prosa\\detailemvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\data\\prosa\\detailemvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\data\\prosa\\archivosprocesadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\data\\prosa\\archivosprocesadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\models\\prosa\\detailrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\models\\prosa\\detailrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\infrastructure\\data\\prosa\\headerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\infrastructure\\data\\prosa\\headerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\interfaces\\prosa\\iheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\interfaces\\prosa\\iheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\interfaces\\prosa\\itrailerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\interfaces\\prosa\\itrailerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\interfaces\\prosa\\idetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\interfaces\\prosa\\idetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\interfaces\\prosa\\idetailemvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\interfaces\\prosa\\idetailemvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\core\\interfaces\\prosa\\iarchivosprocesadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\core\\interfaces\\prosa\\iarchivosprocesadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|c:\\users\\ela\\documents\\proyectos\\fileprocessorsolution\\fileprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB822690-697D-45F2-BE47-B95A75E588C2}|FileProcessor\\FileProcessor.csproj|solutionrelative:fileprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Models\\Prosa\\DetailRecord.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Models\\Prosa\\DetailRecord.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Models\\Prosa\\DetailRecord.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Models\\Prosa\\DetailRecord.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:22:08.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITrailerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\ITrailerRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Interfaces\\Prosa\\ITrailerRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\ITrailerRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Interfaces\\Prosa\\ITrailerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:53:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDetailEMVRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IDetailEMVRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Interfaces\\Prosa\\IDetailEMVRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IDetailEMVRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Interfaces\\Prosa\\IDetailEMVRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:52:46.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IDetailRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Interfaces\\Prosa\\IDetailRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IDetailRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Interfaces\\Prosa\\IDetailRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:52:32.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IArchivosProcesadosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IArchivosProcesadosRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Interfaces\\Prosa\\IArchivosProcesadosRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IArchivosProcesadosRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Interfaces\\Prosa\\IArchivosProcesadosRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:41:24.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IHeaderRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Interfaces\\Prosa\\IHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Interfaces\\Prosa\\IHeaderRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Interfaces\\Prosa\\IHeaderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:42:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "FileProcessor\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\appsettings.json",
+              "RelativeToolTip": "FileProcessor\\appsettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T23:27:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextFileParser.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\FileParsers\\TextFileParser.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\FileParsers\\TextFileParser.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\FileParsers\\TextFileParser.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\FileParsers\\TextFileParser.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:14.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProsaPosteoService.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Services\\ProsaPosteoService.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Core\\Services\\ProsaPosteoService.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Core\\Services\\ProsaPosteoService.cs",
+              "RelativeToolTip": "FileProcessor\\Core\\Services\\ProsaPosteoService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:32:31.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArchivosProcesadosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\ArchivosProcesadosRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\Data\\Prosa\\ArchivosProcesadosRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\ArchivosProcesadosRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\Data\\Prosa\\ArchivosProcesadosRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:26:17.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrailerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\TrailerRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\Data\\Prosa\\TrailerRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\TrailerRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\Data\\Prosa\\TrailerRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:23:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\HeaderRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\Data\\Prosa\\HeaderRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\HeaderRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\Data\\Prosa\\HeaderRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:20:53.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailEMVRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\DetailEMVRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\Data\\Prosa\\DetailEMVRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\DetailEMVRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\Data\\Prosa\\DetailEMVRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:14:04.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\DetailRepository.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\Data\\Prosa\\DetailRepository.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\Data\\Prosa\\DetailRepository.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\Data\\Prosa\\DetailRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:57:47.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProsaTextFileParser.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\FileParsers\\ProsaTextFileParser.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Infrastructure\\FileParsers\\ProsaTextFileParser.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Infrastructure\\FileParsers\\ProsaTextFileParser.cs",
+              "RelativeToolTip": "FileProcessor\\Infrastructure\\FileParsers\\ProsaTextFileParser.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:05:52.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\ELA\\Documents\\Proyectos\\FileProcessorSolution\\FileProcessor\\Program.cs",
+              "RelativeToolTip": "FileProcessor\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:01:50.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
